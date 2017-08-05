@@ -16,7 +16,7 @@ import org.litepal.crud.DataSupport;
 
 public class County extends DataSupport {
 
-    private int id;
+    private int id;  //id 是自动增长的
 
     private String countyName;
 
